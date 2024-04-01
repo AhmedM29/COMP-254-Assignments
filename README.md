@@ -1,2 +1,2 @@
 # COMP-254-Assignments
-COMP 2254 (Data Structures and Algorithms)
+COMP 254 (Data Structures and Algorithms)
